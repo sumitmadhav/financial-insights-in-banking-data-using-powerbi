@@ -63,7 +63,7 @@ This project demonstrates the power of data analysis and visualization in transf
 Feel free to explore the project files and interactive dashboard via the provided link. If you have any questions or feedback, please reach out!
 
 ## Contact
-For any inquiries or support regarding this project, please contact Sumit Suresh Madhav at madhavsumit369@gmail.com. You can also connect on [LinkedIn](https://www.linkedin.com/in/SumitSureshMadhav) or explore more projects on [GitHub](https://github.com/SumitSureshMadhav).
+For any inquiries or support regarding this project, please contact Sumit Suresh Madhav at madhavsumit369@gmail.com. You can also explore more projects on [GitHub](https://github.com/SumitSureshMadhav).
 
 ## About the Maintainer
 This project is currently maintained by Sumit Suresh Madhav, a Data Analyst with over 8 years of experience in transforming complex data into actionable insights. Sumit specializes in leveraging advanced analytics and data visualization to optimize business processes and drive strategic decision-making. His expertise includes Power BI, DAX, SQL, and Python, ensuring the continued development and accuracy of this project.
