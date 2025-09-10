@@ -52,9 +52,6 @@ This project leverages Power BI to provide in-depth financial insights for banki
     <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Power%20Bi%20Dashboard%20Image.png" alt="Power Bi Dashboard Image">
 </p>
 
-## Project Link
-[Access the project files and dashboard](https://drive.google.com/drive/folders/12JehfBqbzBIicYZ1lYkcQi65iE3BKKoH?usp=sharing)
-
 ## Conclusion
 This project demonstrates the power of data analysis and visualization in transforming raw banking data into actionable insights. By leveraging Power BI and advanced analytics, banking institutions can optimize their services, manage risks more effectively, and enhance customer satisfaction.
 
